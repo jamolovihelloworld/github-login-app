@@ -1,2 +1,3 @@
-# github-login-app
-github-login-app
+# Github Login App
+
+Описание проекта github-login-app.
